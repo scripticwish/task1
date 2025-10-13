@@ -1,0 +1,15 @@
+.bold{
+    font-weight: 900;
+}
+.cur{
+    font-style: italic;
+}
+.font{
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.color{
+    color:firebrick;
+}
+.bg{
+    background: royalblue url("../img/b5f0a87e88abfa9ae5d8b6873993554d.jpg") repeat-y 100% fixed;
+}
