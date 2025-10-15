@@ -11,5 +11,12 @@
     color:firebrick;
 }
 .bg{
-    background: royalblue url("../img/b5f0a87e88abfa9ae5d8b6873993554d.jpg") repeat-y 100% fixed;
+    background: rgb(134, 159, 235) url("../img/b5f0a87e88abfa9ae5d8b6873993554d.jpg") repeat-y 100% fixed;
+}
+.square {
+    list-style-type: square;
+}
+.discandbold {
+    list-style-type: disc;
+    font-weight: 900;
 }
