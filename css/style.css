@@ -20,3 +20,6 @@
     list-style-type: disc;
     font-weight: 900;
 }
+.rim {
+    list-style-type: lower-roman;
+}
